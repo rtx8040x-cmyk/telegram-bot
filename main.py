@@ -3,7 +3,7 @@ import os
 from telegram import *
 from telegram.ext import *
 
-TOKEN = os.getenv("8401828011:AAG-WDXiTj60NkYoF6OS34PqR8rKsNC3pPU")
+TOKEN = os.getenv("TOKEN")
 ADMIN_ID = 6528742142
 bot_username = "Num_67bot"
 
