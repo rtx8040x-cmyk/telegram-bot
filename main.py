@@ -3,7 +3,7 @@ import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = os.getenv("TOKEN")  # مهم جدًا
+TOKEN = os.getenv("TOKEN") 
 ADMIN_ID = 6528742142
 bot_username = "Num_67bot"
 
